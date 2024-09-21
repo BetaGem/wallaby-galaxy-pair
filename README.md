@@ -7,7 +7,10 @@ This repository contains a demo showcasing the deblending of HI in galaxy pairs 
 
 To see how the code works, simply run the Jupyter notebook [deblending.ipynb](https://github.com/BetaGem/wallaby-galaxy-pair/deblending.ipynb). For batch processing, an additional script is required. Adjust the free parameters according to your data before running the script.
 
-### Additional information
+#### Dependences
+- ```numpy```, ```matplotlib```, ```astropy```, ```photutils```, ```scikit-image```, ```astroquery```(optional), ```ipywidgets```(optional)
+
+### Citation
 For more comprehensive details on the algorithm, please refer to our paper: [Huang et al. (2024)](). If you find the code useful and plan to utilize it for your own research, we kindly request that you cite our paper as a reference.
 
 Thanks for your interest in our work!

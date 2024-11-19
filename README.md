@@ -1,5 +1,7 @@
 ## 3D deblending for astronomical data cubes
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.14184164.svg)](http://dx.doi.org/10.5281/zenodo.14184164)
+
 Blending of neighboring HI sources is a common issue in upcoming HI surveys, especially when pushing the utilization of data to the limits of spatial resolution. In this repository, we present an algorithm that effectively separates the fluxes in blended HI detections by leveraging information from optical images as prior knowledge. Furthermore, this algorithm has the potential to be utilized with datasets in other wavelengths (e.g., CO, optical IFU, ...).
 
 ### Demo and usage

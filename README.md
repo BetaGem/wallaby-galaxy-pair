@@ -7,7 +7,7 @@ Blending of neighboring HI sources is a common issue in upcoming HI surveys, esp
 ### Demo and usage
 This repository contains a demo showcasing the deblending of HI in galaxy pairs using the `watershed` algorithm from `scikit-image`. The documentation for the watershed algorithm can be found [here](https://scikit-image.org/docs/stable/api/skimage.segmentation.html#skimage.segmentation.watershed).
 
-**Update: the algorithm can be installed through `pip` thanks to Peter Kamphuis: [repo](https://github.com/PeterKamphuis/deblend_sofia_detections/tree/main)
+**Update:** the code can be installed through `pip` now thanks to Peter Kamphuis: [repo](https://github.com/PeterKamphuis/deblend_sofia_detections/tree/main)
 
 To see how the code works, simply run the Jupyter notebook [deblending.ipynb](https://github.com/BetaGem/wallaby-galaxy-pair/deblending.ipynb). For batch processing, an additional script is required. Adjust the free parameters according to your data before running the script.
 

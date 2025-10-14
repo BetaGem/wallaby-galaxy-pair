@@ -15,6 +15,6 @@ To see how the code works, simply run the Jupyter notebook [deblending.ipynb](ht
 - `numpy`, `matplotlib`, `astropy`, `photutils`, `scikit-image`, `reproject`(optional), `astroquery`(optional), `ipywidgets`(optional)
 
 ### Citation
-For more comprehensive details on the algorithm, please refer to our paper: [Huang et al. (2024)](https://arxiv.org/abs/2410.22406). If you find the code useful and plan to utilize it for your own research, we kindly request that you cite our paper as a reference.
+For more comprehensive details on the algorithm, please refer to our paper: [Huang et al. (2025a)](https://ui.adsabs.harvard.edu/abs/2025ApJ...980..157H). If you find the code useful and plan to utilize it for your own research, we kindly request that you cite our paper as a reference.
 
 Thanks for your interest in our work!
